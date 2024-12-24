@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422864183042",
+    "project_id": "mentosmessenger",
+    "storage_bucket": "mentosmessenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422864183042:android:c983f48ff47bed6ae8ac1b",
+        "android_client_info": {
+          "package_name": "com.adlerware.mantoschat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1lGxWAfhvyU6OJX4VJG4aBeVQ-5pRqg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
